@@ -4,8 +4,8 @@
    xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/gm0297/2020/1234-2022</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/gm0297/2020/1234-2022/nld@2020-08-27</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/gm0297/2022/1234-2022</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm0297/2022/1234-2022/nld@2022-04-24</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -48,7 +48,7 @@
                <doelen>
                   <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/gm0297/2020/1234-2022/nld@2020-08-27</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/gm0297/2022/1234-2022/nld@2022-04-24</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
@@ -158,7 +158,7 @@
                <Nummer>A</Nummer>
                <Opschrift>Bijlage bij artikel I</Opschrift>
             </Kop>
-            <RegelingMutatie componentnaam="wijziging_12" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;11" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;12">
+            <RegelingMutatie componentnaam="wijziging_12" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;11" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2022-04-24;12">
                <VervangKop wat="gm0297_1__chp_2__subchp_2.6__art_2.16" eId-wordt="chp_2__subchp_2.6__art_2.17">
                   <Nummer>A</Nummer>
                   <Wat>Artikel 2.16 wordt als volgt vernummerd:</Wat>
@@ -426,7 +426,7 @@
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/gm0037/2019/reg456</FRBRWork>
-         <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;12</FRBRExpression>
+         <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2022-04-24;12</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <ns1:RegelingVersieMetadata xmlns:ns1="https://standaarden.overheid.nl/stop/imop/data/">
