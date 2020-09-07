@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   schemaversie="1.0.3">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0297/2022/Wormenkwekerijverbod</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0297/2022/Wormenkwekerijverbod/nld@2022-06-24;1234-2022</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/gm0037/2019/reg456</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Wormenkwekerijverbod.gml</bestandsnaam>
+                  <hash>103f81071f0f9cc0a00eef10ffba3c0771caa62e7d16379660e916c83b07e845ddb09072e454a63f00ceb1bad98485fcd8296a69e37ea5c00793f0e96d36ca9e</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0297</maker>
+         <officieleTitel>/join/id/regdata/gm0297/2022/Wormenkwekerijverbod</officieleTitel>
+         <naamInformatieObject>Wormenkwekerijverbod</naamInformatieObject>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

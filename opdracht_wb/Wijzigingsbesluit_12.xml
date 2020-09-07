@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm0297/2020/1234-2022</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm0297/2020/1234-2022/nld@2020-08-27</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0297</maker>
+         <officieleTitel>Vaststelling omgevingsplan wijziging 12</officieleTitel>
+         <alternatieveTitels>
+            <alternatieveTitel>Geitenfokkerij</alternatieveTitel>
+         </alternatieveTitels>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_989e37d9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8054d6b3</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/gm0297/2022/Geitenfokkerij/nld@2022-04-24;1234-2022</informatieobjectRef><!-- Nieuw: Geitenfokkerij -->
+            <informatieobjectRef>/join/id/regdata/gm0297/2022/bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen/nld@2022-04-24;1234-2022</informatieobjectRef><!-- Nieuw: bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen -->
+            <informatieobjectRef>/join/id/regdata/gm0297/2022/Wormenkwekerijverbod/nld@2022-06-24;1234-2022</informatieobjectRef><!-- Nieuw: Wormenkwekerij -->
+            <informatieobjectRef>/join/id/regdata/gm0297/2022/Bouwhoogte/nld@2022-06-24;1234-2022</informatieobjectRef><!-- Gewijzigd: Maximum bouwhoogte -->
+            <informatieobjectRef>/join/id/regdata/gm0297/2022/Goothoogte/nld@2022-06-24;1234-2022</informatieobjectRef><!-- Gewijzigd: Maximum goothoogte -->
+            <informatieobjectRef>/join/id/regdata/gm0297/2022/Oppervlakte/nld@2022-06-24;1234-2022</informatieobjectRef><!-- Gewijzigd: Maximum oppervlakte -->
+            <informatieobjectRef>/join/id/regdata/gm0297/2022/Landbouwhuisdieren/nld@2022-06-24;1234-2022</informatieobjectRef><!-- Gewijzigd: Landbouwhuisdieren -->
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <bekendOp>2022-05-09</bekendOp>
+            <ontvangenOp>2022-05-02</ontvangenOp>
+            <procedurestappen>
+               <Procedurestap>
+                  <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+                  <voltooidOp>2022-04-25</voltooidOp>
+               </Procedurestap>
+            </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm0297/2020/1234-2022/nld@2020-08-27</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0297/2022/Geitenfokkerij/nld@2022-04-24;1234-2022</instrumentVersie>
+               <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0297/2022/bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen/nld@2022-04-24;1234-2022</instrumentVersie>
+               <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0297/2022/Wormenkwekerijverbod/nld@2022-06-24;1234-2022</instrumentVersie>
+               <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0297/2022/Bouwhoogte/nld@2022-06-24;1234-2022</instrumentVersie>
+               <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0297/2022/Goothoogte/nld@2022-06-24;1234-2022</instrumentVersie>
+               <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0297/2022/Oppervlakte/nld@2022-06-24;1234-2022</instrumentVersie>
+               <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0297/2022/Landbouwhuisdieren/nld@2022-06-24;1234-2022</instrumentVersie>
+               <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2022-05-09</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift wId="longTitle" eId="longTitle">
+            <Al>Vaststelling omgevingsplan wijziging 12</Al>
+         </RegelingOpschrift>
+         <Aanhef wId="formula_1" eId="formula_1">
+            <Al>De raad van de gemeente Gemeentestad,</Al>
+            <Al>overwegende dat, overeenkomstig artikel 16.30 Omgevingswet en afdeling 3.4 Algemene wet bestuursrecht, het ontwerp van het besluit tot wijziging van het omgevingsplan 'omgevingsplan wijziging 12' met ingang van 1 februari 2022 gedurende zes weken ter inzage heeft gelegen;</Al>
+            <Al>gelezen het raadsvoorstel van 14 april 2022, nr 1234-2022, met bijbehorende Nota zienswijzen en ambtshalve wijzigingen waarin wordt voorgesteld om aan een deel van de zienswijzen tegemoet te komen, aan een deel van de zienswijzen niet tegemoet te komen en enige ambtshalve wijzigingen in het omgevingsplan aan te brengen; </Al>
+            <Al>overwegende dat hij de de in dat voorstel en de daarmee één geheel uitmakende Nota zienswijzen en ambtshalve wijzigingen vervatte overwegingen tot de zijne maakt en deze als zodanig geacht moeten worden hier woordelijk te zijn overgenomen;</Al>
+            <Al>overwegende dat gedeputeerde staten van Provincieland tegen het ontwerp van 'omgevingsplan wijziging 12' een zienswijze hebben ingediend die wij niet volledig hebben overgenomen en dat wij wijzigingen hebben aangebracht ten opzichte van het ontwerp anders dan als gevolg van een zienswijze van gedeputeerde staten en er dus sprake is van een geval als bedoeld in artikel 16.21 Omgevingswet waardoor wij op grond van het eerste lid van artikel 10.3 Omgevingsbesluit dit besluit onverwijld aan gedeputeerde staten dienen te zenden;</Al>
+            <Al>gelet op de bepalingen bij en krachtens de Omgevingswet;</Al>
+            <Al/>
+            <Al>besluiten:</Al>
+         </Aanhef>
+         <Lichaam wId="body" eId="body">
+            <WijzigArtikel wId="art_I" eId="gm0297_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>Het omgevingsplan van de gemeente Gemeentestad wordt gewijzigd zoals is aangegeven in Bijlage 1.</Wat>
+            </WijzigArtikel>
+            <Artikel wId="art_II" eId="gm0297_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit besluit treedt in werking vier weken na de dag van bekendmaking.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting wId="formula_2" eId="formula_2">
+            <Al>Aldus besloten in de vergadering d.d. 24 april 2022</Al>
+            <Ondertekening>
+               <Al>Gedeputeerde Raad van Apeldoorn tot Den Haag</Al>
+               <Al>Yue Wan Fan</Al>
+               <Al>gemeentesecretaris</Al>
+               <Al>Nadine Bauer</Al>
+               <Al>Burgemeester</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage wId="cmp_A" eId="gm0297_1__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+               <Opschrift>Bijlage bij artikel I</Opschrift>
+            </Kop>
+            <RegelingMutatie componentnaam="wijziging_12" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;11" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;12">
+               <VervangKop wat="gm0297_1__chp_2__subchp_2.6__art_2.16" eId-wordt="chp_2__subchp_2.6__art_2.17">
+                  <Nummer>A</Nummer>
+                  <Wat>Artikel 2.16 wordt als volgt vernummerd:</Wat>
+                  <Kop>
+                     <Label>Artikel</Label>
+                     <Nummer>2.17</Nummer>
+                     <Opschrift>Toedeling functie Landelijk gebied</Opschrift>
+                  </Kop>
+               </VervangKop>
+               <VoegToe positie="komtVoor" context="gm0297_1__subchp_2.6__art_2.17">
+                  <Nummer>B</Nummer>
+                  <Wat>Voor artikel 2.17 wordt een artikel ingevoegd, luidende:</Wat>
+                  <Artikel eId="chp_2__subchp_2.6__art_2.16" wId="gm0297_12__chp_2__subchp_2.6__art_2.16">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>2.16</Nummer>
+                        <Opschrift>Toedeling functie Geitenfokkerij</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Lijst eId="chp_2__subchp_2.6__art_2.16__list_o_1"
+                           wId="gm0297_12__chp_2__subchp_2.6__art_2.16__list_o_1"
+                           type="expliciet">
+                           <Li eId="chp_2__subchp_2.6__art_2.16__list_o_1__item_1"
+                              wId="gm0297_12__chp_2__subchp_2.6__art_2.16__list_o_1__item_1">
+                              <LiNummer>1.</LiNummer>
+                              <Al>Functietoedeling</Al>
+                              <Al>Aan het werkingsgebied ‘Geitenfokkerij’ wordt de functie Geitenfokkerij toegedeeld. </Al>
+                           </Li>
+                           <Li eId="chp_2__subchp_2.6__art_2.16__list_o_1__item_2"
+                              wId="gm0297_12__chp_2__subchp_2.6__art_2.16__list_o_1__item_2">
+                              <LiNummer>2.</LiNummer>
+                              <Al>Toegelaten planologisch gebruik</Al>
+                              <Al>Ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_2__subchp_2.6__art_2.16__list_o_1__item_2__ref_o_1" wId="chp_2__subchp_2.6__art_2.16__list_o_1__item_2__ref_o_1" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">Geitenfokkerij</IntIoRef>’ is het toegestaan gronden en bouwwerken te gebruiken voor het oprichten en exploiteren van een geitenfokkerij.</Al>
+                           </Li>
+                        </Lijst>
+                     </Inhoud>
+                  </Artikel>
+               </VoegToe>
+               <VoegToe positie="volgtOp" context="gm0297_1__chp_2__subchp_2.7__art_5.11">
+                  <Nummer>C</Nummer>
+                  <Wat>Na artikel 5.11 wordt een artikel ingevoegd, luidende:</Wat>
+                  <Artikel wId="chp_5__subchp_5.1__art_5.12" eId="gm0297_12__chp_2__subchp_5.1__art_5.12">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>5.12</Nummer>
+                        <Opschrift>Bouwregels voor bedrijfsgebouwen voor varkenshouderijen en geitenfokkerijen</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Al>Ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_1" wId="gm0297_1__chp_5__subchp_5.1__art_5.12__ref_o_1" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_2">bouwen en instandhouden bedrijfsgebouwen varkenshouderijen en geitenfokkerijen</IntIoRef>’ </Al>
+                        <Al>is het bouwen en instandhouden van bedrijfsgebouwen voor varkenshouderijen </Al>
+                        <Al>en geitenfokkerijen toegestaan, met dien verstande dat de goothoogte van de bedrijfsgebouwen niet </Al>
+                        <Al>hoger mag zijn dan de waarde die is aangegeven ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_2" wId="gm0297_1__chp_5__subchp_5.1__art_5.12__ref_o_2" ref="TODO">Maximum bouwhoogte</IntIoRef>’</Al>
+                        <Al>, de goothoogte van de bedrijfsgebouwen niet hoger mag zijn dan de waarde die is </Al>
+                        <Al>aangegeven ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_3" wId="gm0297_1__subchp_5.1__art_5.12__ref_o_3" ref="TODO">Maximum goothoogte</IntIoRef>’ en de oppervlakte van de </Al>
+                        <Al>bedrijfsgebouwen niet groter mag zijn dan de waarde die is aangegeven ter plaatse van het </Al>
+                        <Al>werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_4" wId="gm0297_12__subchp_5.1__art_5.12__ref_o_4" ref="TODO">Maximum oppervlakte</IntIoRef>’.</Al>
+                     </Inhoud>
+                  </Artikel>
+               </VoegToe>
+               <Verwijder wat="gm0297_1__chp_7__subchp_7.1__art_7.1">
+                  <Nummer>D</Nummer>
+                  <Wat>Artikel 7.1 wordt verwijderd:</Wat>
+                  <Artikel wId="chp_7__subchp_2.8__art_7.2" eId="gm0297_1__chp_7__subchp_2.8__art_7.2">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>7.1</Nummer>
+                        <Opschrift>Geitenfokkerijverbod</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Al>Het oprichten, instandhouden en gebruiken van bouwwerken en het gebruik van gronden ten behoeve van geitenfokkerijen is verboden. </Al>
+                     </Inhoud>
+                  </Artikel>
+               </Verwijder>
+               <VervangKop wat="gm0297_1__chp_7__subchp_7.1__art_7.2" eId-wordt="gm0297_12__chp_7__subchp_7.1__art_7.1">
+                  <Nummer>E</Nummer>
+                  <Wat>Artikel 7.2 wordt als volgt vernummerd:</Wat>
+                  <Kop>
+                     <Label>Artikel</Label>
+                     <Nummer>7.1</Nummer>
+                     <Opschrift></Opschrift>
+                  </Kop>
+               </VervangKop>
+               <Verwijder wat="gm0297_1__chp_10__subchp_10.1__art_10.2">
+                  <Nummer>F</Nummer>
+                  <Wat>Artikel 10.81 wordt verwijderd:</Wat>
+                  <Artikel wId="chp_10__subchp_2.9__art_10.2" eId="gm0297_1__chp_10__subchp_2.9__art_10.2">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>10.81</Nummer>
+                        <Opschrift>Verwerking organische reststromen en dierlijke bijproducten</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Lijst type="expliciet" wId="chp_10__subchp_2.9__art_10.2__list_o_1" eId="gm0297_1__chp_10__subchp_2.9__art_10.2__list_o_1">
+                           <Li wId="chp_10__subchp_2.9__art_10.2__list_o_1__item_1" eId="gm0297_1__chp_10__subchp_2.9__art_10.2__list_o_1__item_1">
+                              <LiNummer>1.</LiNummer>
+                              <Al>Vergunningplicht</Al>
+                              <Al>Ter plaatse van het werkingsgebied ‘Verwerking organische reststromen en dierlijke </Al>
+                              <Al>bijproducten’ is het verboden om zonder omgevingsvergunning activiteiten te verrichten op het </Al>
+                              <Al>gebied van het verwerken van organische reststromen en dierlijke bijproducten.</Al>
+                           </Li>
+                           <Li wId="chp_10__subchp_2.9__art_10.2__list_o_1__item_2" eId="gm0297_1__chp_10__subchp_2.9__art_10.2__list_o_1__item_2">
+                              <LiNummer>2.</LiNummer>
+                              <Al>2.	Beoordelingsregels</Al>
+                              <Al>De omgevingsvergunning wordt slechts verleend wanneer wordt voldaan aan de volgende</Al>
+                              <Al>vereisten: etc </Al>
+                           </Li>
+                        </Lijst>
+                     </Inhoud>
+                  </Artikel>
+               </Verwijder>
+               <Vervang wat="gm0297_1__cmp_I__content_o_1__list_o_1">
+                  <Nummer>G</Nummer>
+                  <Divisietekst eId="cmp_I__content_o_1" wId="gm0297_1__cmp_I__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1">
+                           <!-- BV: Een Begrippenlijst moet gesorteerd zijn -->
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1">
+                              <Term>Bedrijf categorie 2</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_2" wijzigactie="voegtoe">
+                              <Term>Bouwen en instandhouden bedrijfsgebouwen varkensfokkerijen en geitenfokkerijen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0297/2022/bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen/nld@2021-06-29;1234-2022">/join/id/regdata/gm0297/2022/bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen/nld@2021-06-29;1234-2022</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2">
+                              <Term>Centrumgebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0297/2019/Centrumgebied/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Centrumgebied/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3">
+                              <Term>Exploiteren speelautomatenhal</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0297/2019/Speelhal/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Speelhal/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_5" wijzigactie="voegtoe">
+                              <Term>Geitenfokkerij</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0297/2022/Geitenfokkerij/nld@2022-04-24;1234-2022">/join/id/regdata/gm0297/2022/Geitenfokkerij/nld@2022-04-24;1234-2022</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6">
+                              <Term>Landbouwhuisdierenverblijfhygiëne</Term>
+                              <Definitie>
+                                 <Al wijzigactie="verwijder">
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1_inst2" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2019/Landbouwhuisdieren/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Landbouwhuisdieren/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                                 <Al wijzigactie="voegtoe">
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2022/Landbouwhuisdieren/nld@2022-06-24;1234-2022">/join/id/regdata/gm0297/2022/Landbouwhuisdieren/nld@2022-06-24;1234-2022</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
+                              <Term>Maximum bouwhoogte bedrijfsgebouw</Term>
+                              <Definitie>
+                                 <Al wijzigactie="verwijder">
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1_inst2" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                                 <Al wijzigactie="voegtoe">
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0297/2022/Bouwhoogte/nld@2022-06-24;1234-2022">/join/id/regdata/gm0297/2022/Bouwhoogte/nld@2022-06-24;1234-2022</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8">
+                              <Term>Maximum goothoogte bedrijfsgebouw</Term>
+                              <Definitie>
+                                 <Al wijzigactie="verwijder">
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1_inst2" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm0297/2019/Goothoogte/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Goothoogte/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                                 <Al wijzigactie="voegtoe">
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0297/2022/Goothoogte/nld@2022-06-24;1234-2022">/join/id/regdata/gm0297/2022/Goothoogte/nld@2022-06-24;1234-2022</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9">
+                              <Term>Maximum oppervlakte</Term>
+                              <Definitie>
+                                 <Al wijzigactie="verwijder">
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1_inst2" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0297/2019/Oppervlakte/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Oppervlakte/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                                 <Al wijzigactie="voegtoe">
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/gm0297/2022/Oppervlakte/nld@2022-06-24;1234-2022">/join/id/regdata/gm0297/2022/Oppervlakte/nld@2022-06-24;1234-2022</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8_inst2" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8" wijzigactie="verwijder">
+                              <Term>Verwerking organische reststromen en dierlijke bijproducten</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1_inst2" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0297/2019/DierlijkeBijprod/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/DierlijkeBijprod/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9">
+                              <Term>Welstandsniveau</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_11" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_11" wijzigactie="voegtoe">
+                              <Term>Wormenkwekerijverbod</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1" ref="/join/id/regdata/gm0297/2022/Wormenkwekerijverbod/nld@2022-06-24;1234-2022">/join/id/regdata/gm0297/2022/Wormenkwekerijverbod/nld@2022-06-24;1234-2022</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_12" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_10">
+                              <Term>Zone A</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_11">
+                              <Term>Zone B</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_14" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_12">
+                              <Term>Zuilichem</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_15" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_13">
+                              <Term>Testcontentdisclaimer</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/gm0297/2019/Testcontentdisclaimer/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Testcontentdisclaimer/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Vervang>
+            </RegelingMutatie>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm0037/2019/reg456</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;12</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <ns1:RegelingVersieMetadata xmlns:ns1="https://standaarden.overheid.nl/stop/imop/data/">
+         <ns1:versienummer>12</ns1:versienummer>
+      </ns1:RegelingVersieMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
