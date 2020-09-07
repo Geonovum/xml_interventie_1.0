@@ -46,56 +46,56 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+                  <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0297/2022/1234-2022/nld@2022-04-24</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+                  <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2022/Geitenfokkerij/nld@2022-04-24;1234-2022</instrumentVersie>
                <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+                  <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2022/bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen/nld@2022-04-24;1234-2022</instrumentVersie>
                <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+                  <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2022/Wormenkwekerijverbod/nld@2022-06-24;1234-2022</instrumentVersie>
                <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+                  <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2022/Bouwhoogte/nld@2022-06-24;1234-2022</instrumentVersie>
                <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+                  <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2022/Goothoogte/nld@2022-06-24;1234-2022</instrumentVersie>
                <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+                  <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2022/Oppervlakte/nld@2022-06-24;1234-2022</instrumentVersie>
                <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+                  <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2022/Landbouwhuisdieren/nld@2022-06-24;1234-2022</instrumentVersie>
                <eId>!wijziging_12#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
@@ -103,7 +103,7 @@
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</doel>
+               <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2022-05-09</datum>
                <eId>art_II</eId>

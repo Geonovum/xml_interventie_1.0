@@ -5,7 +5,7 @@
   <domein>omgevingswet</domein>
   <Aanlevering>
     <WorkIDRegeling>/akn/nl/act/gm0297/2019/reg456</WorkIDRegeling>
-    <DoelID>/akn/ontology/event/nl/gm0297/sync/Wijziging_12</DoelID>
+    <DoelID>/join/id/proces/gm0297/2022/Wijziging_12</DoelID>
     <Bestand>
       <naam>owLocatie-wijziging-12.xml</naam>
       <objecttype>Gebiedengroep</objecttype>
