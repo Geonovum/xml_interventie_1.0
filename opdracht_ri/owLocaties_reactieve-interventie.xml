@@ -2,18 +2,11 @@
 <ow-dc:owBestand xmlns:op="http://www.geostandaarden.nl/imow/opobject"
     xmlns:imvert="http://www.imvertor.org/schema/system"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:l="http://www.geostandaarden.nl/imow/locatie"
-    xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
-    xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
-    xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
-    xmlns:k="http://www.geostandaarden.nl/imow/kaart"
-    xmlns:r="http://www.geostandaarden.nl/imow/regels"
-    xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
-    xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
-    xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
-    xmlns:p="http://www.geostandaarden.nl/imow/pons"
     xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
     xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+    xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+    xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+    xmlns:r="http://www.geostandaarden.nl/imow/regels"
     xmlns:g-ref="http://www.geostandaarden.nl/imow/geometrie-ref"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.2/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
@@ -21,7 +14,7 @@
         <sl:dataset>Gemeentestad</sl:dataset>
         <sl:inhoud>
             <sl:gebied>Gemeentestad</sl:gebied>
-            <sl:leveringsId>abc-20200228-0300</sl:leveringsId>
+            <sl:leveringsId>abc-20220511-0100</sl:leveringsId>
             <sl:objectTypen>
                 <sl:objectType>Gebied</sl:objectType>
             </sl:objectTypen>

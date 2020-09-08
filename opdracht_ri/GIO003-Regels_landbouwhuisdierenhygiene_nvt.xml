@@ -3,8 +3,8 @@
    schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0297/2022/Geitenfokkerij</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0297/2022/Geitenfokkerij/nld@2022-04-24;1234-2022</FRBRExpression>
+         <FRBRWork>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiëne_nvt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiëne_nvt/nld@2022-05-06;RI0001</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,17 +12,17 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>Geitenhouderij.gml</bestandsnaam>
-                  <hash>be0303c34482f7064e140993dc9a2ee58507fe793f5d252303de6bf69da16ee59d9d343e54788faa3dfa5749d89d98c6ac9ed3378b99f24419acfde9df245b98</hash>
+                  <bestandsnaam>Regels_landbouwhuisdierenhygiene_nvt.gml</bestandsnaam>
+                  <hash>6e14faea0dbdd9c881f43bb3d1736d52244b82bacb5a44fc3c20837e5cba29a902ea3aadc0ee99cf5e372a6c6d1e7e26f37d92d7a4ed58bd953e42f676522954</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
       </InformatieObjectVersieMetadata>
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
-         <maker>/tooi/id/gemeente/gm0297</maker>
-         <officieleTitel>/join/id/regdata/gm0297/2022/Geitenhouderij</officieleTitel>
-         <naamInformatieObject>Geitenhouderij</naamInformatieObject>
+         <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv25</maker>
+         <officieleTitel>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiëne_nvt</officieleTitel>
+         <naamInformatieObject>Regels_landbouwhuisdierenhygiene_nvt</naamInformatieObject>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
