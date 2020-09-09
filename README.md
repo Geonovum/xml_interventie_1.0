@@ -9,3 +9,6 @@ Het wijzigingsbesluit dat aanleiding wordt voor Provincieland om een reactieve i
 # Folder opdracht_ri
 ## Reactieve Interventie Provincieland
 De reactieve interventie van provincie Provincieland
+
+# Folder Word
+De Word versies van de wijziging en Reactieve Interventie
