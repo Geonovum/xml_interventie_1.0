@@ -9,10 +9,10 @@
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
             <geo:FRBRWork>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt/nld@2022-05-06;RI0001</geo:FRBRExpression>
+            <geo:FRBRExpression>/join/id/regdata/pv25/2022/Landbouwhuisdierenverblijfhygiëne/nld@2022-05-06;RI0001</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
-                    <geo:naam>Regels maatvoering bouwen niet van toepassing</geo:naam>
+                    <geo:naam>Regels Landbouwhuisdierenhygiëne niet van toepassing</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-5d9889aa-b764-4721-bdcd-87f8f886a6b4-xx">
                             <basisgeo:id>5d9889aa-b764-4721-bdcd-87f8f886a6b4</basisgeo:id>

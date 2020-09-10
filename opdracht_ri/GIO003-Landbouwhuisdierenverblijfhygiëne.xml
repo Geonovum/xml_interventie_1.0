@@ -3,8 +3,8 @@
    schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiëne_nvt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiëne_nvt/nld@2022-05-06;RI0001</FRBRExpression>
+         <FRBRWork>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv25/2022/Landbouwhuisdierenverblijfhygiëne/nld@2022-05-06;RI0001</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -13,7 +13,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regels_landbouwhuisdierenhygiene_nvt.gml</bestandsnaam>
-                  <hash>6e14faea0dbdd9c881f43bb3d1736d52244b82bacb5a44fc3c20837e5cba29a902ea3aadc0ee99cf5e372a6c6d1e7e26f37d92d7a4ed58bd953e42f676522954</hash>
+                  <hash>c4949a943c075b2d76883d0e5376dccbc434294aa4dc2e614e691fc93164d28898ad094b609d9b9556d7ee3181abc6bfa92e65e5790295f66a605630fc7b1558</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -21,8 +21,8 @@
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv25</maker>
-         <officieleTitel>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiëne_nvt</officieleTitel>
-         <naamInformatieObject>Regels_landbouwhuisdierenhygiene_nvt</naamInformatieObject>
+         <officieleTitel>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt</officieleTitel>
+         <naamInformatieObject>Regels Landbouwhuisdierenhygiëne niet van toepassing</naamInformatieObject>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>

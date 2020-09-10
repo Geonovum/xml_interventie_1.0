@@ -12,6 +12,7 @@
             <geo:FRBRExpression>/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Regels maatvoering bouwen niet van toepassing</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-7d315060-96d6-4405-a45f-552896f2a5c3-xx">
                             <basisgeo:id>7d315060-96d6-4405-a45f-552896f2a5c3</basisgeo:id>
