@@ -8,10 +8,11 @@
     </geo:context>
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
-            <geo:FRBRWork>/join/id/regdata/gm0297/2019/Geitenfokkerij</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Geitenfokkerij/nld@2022-06-24;1234-2022</geo:FRBRExpression>
+            <geo:FRBRWork>/join/id/regdata/gm0297/2022/Geitenfokkerij</geo:FRBRWork>
+            <geo:FRBRExpression>/join/id/regdata/gm0297/2022/Geitenfokkerij/nld@2022-06-24;1234-2022</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Geitenfokkerij</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-515a88c3-b65c-487a-83e8-001566240ea8-xx">
                             <basisgeo:id>515a88c3-b65c-487a-83e8-001566240ea8</basisgeo:id>

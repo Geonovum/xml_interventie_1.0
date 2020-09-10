@@ -15,10 +15,11 @@
     </geo:context>
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
-            <geo:FRBRWork>/join/id/regdata/gm0297/2019/bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen/nld@2022-06-24;1234-2022</geo:FRBRExpression>
+            <geo:FRBRWork>/join/id/regdata/gm0297/2022/bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen</geo:FRBRWork>
+            <geo:FRBRExpression>/join/id/regdata/gm0297/2022/bedrijfsgebouwen_varkensfokkerijen_en_geitenfokkerijen/nld@2022-06-24;1234-2022</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Bouwen en instandhouden bedrijfsgebouwen varkensfokkerijen en geitenfokkerijen</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-e8e2b6af-8480-45a8-818e-62fc247be91c-xx">
                             <basisgeo:id>e8e2b6af-8480-45a8-818e-62fc247be91c</basisgeo:id>

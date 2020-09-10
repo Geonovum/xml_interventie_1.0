@@ -14,6 +14,7 @@
          <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumOppervlakte</geo:normID>
          <geo:locaties>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 1</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-5e9629c2-9c0b-40e6-8136-72498b2b71f5-xx">
                      <basisgeo:id>5e9629c2-9c0b-40e6-8136-72498b2b71f5</basisgeo:id>
@@ -35,6 +36,7 @@
                <geo:kwantitatieveNormwaarde>50</geo:kwantitatieveNormwaarde>
             </geo:Locatie>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 2</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-93cf64bf-a47f-46d6-802f-6ad39b16a95d-xx">
                      <basisgeo:id>93cf64bf-a47f-46d6-802f-6ad39b16a95d</basisgeo:id>
@@ -56,6 +58,7 @@
                <geo:kwantitatieveNormwaarde>50</geo:kwantitatieveNormwaarde>
             </geo:Locatie>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 3</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-44608da7-89a1-4c56-8d1b-6f836025ea14-xx">
                      <basisgeo:id>44608da7-89a1-4c56-8d1b-6f836025ea14</basisgeo:id>
@@ -77,6 +80,7 @@
                <geo:kwantitatieveNormwaarde>40</geo:kwantitatieveNormwaarde>
             </geo:Locatie>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 4</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-6ba73f18-f83a-428a-ab73-c5448387a94f-xx">
                      <basisgeo:id>6ba73f18-f83a-428a-ab73-c5448387a94f</basisgeo:id>
@@ -98,6 +102,7 @@
                <geo:kwantitatieveNormwaarde>30</geo:kwantitatieveNormwaarde>
             </geo:Locatie>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 5</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-3d920723-36d8-449c-bab1-88215328f715-xx">
                      <basisgeo:id>3d920723-36d8-449c-bab1-88215328f715</basisgeo:id>

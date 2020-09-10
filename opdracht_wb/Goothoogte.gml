@@ -9,11 +9,12 @@
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
          <geo:FRBRWork>/join/id/regdata/gm0297/2019/Goothoogte</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Goothoogte/nld@2019-06-18;3520</geo:FRBRExpression>
+         <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Goothoogte/nld@2022-06-24;1234-2022</geo:FRBRExpression>
          <geo:normlabel>Maximum Goothoogte</geo:normlabel>
          <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumGoothoogte</geo:normID>
          <geo:locaties>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 1</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-47a97ea4-1be5-40b2-9d8c-6310414ef069-xx">
                      <basisgeo:id>47a97ea4-1be5-40b2-9d8c-6310414ef069</basisgeo:id>
@@ -35,6 +36,7 @@
                <geo:kwantitatieveNormwaarde>6</geo:kwantitatieveNormwaarde>
             </geo:Locatie>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 2</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-2f3a5858-7956-4744-a90a-421569306753-xx">
                      <basisgeo:id>2f3a5858-7956-4744-a90a-421569306753</basisgeo:id>
@@ -56,6 +58,7 @@
                <geo:kwantitatieveNormwaarde>6</geo:kwantitatieveNormwaarde>
             </geo:Locatie>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 3</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-47f5577a-8774-439b-b0d2-14d1dce01949-xx">
                      <basisgeo:id>47f5577a-8774-439b-b0d2-14d1dce01949</basisgeo:id>
@@ -77,6 +80,7 @@
                <geo:kwantitatieveNormwaarde>13</geo:kwantitatieveNormwaarde>
             </geo:Locatie>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 4</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-17099564-ce34-4656-979c-d2e2bc26cf8f-xx">
                      <basisgeo:id>17099564-ce34-4656-979c-d2e2bc26cf8f</basisgeo:id>
@@ -98,6 +102,7 @@
                <geo:kwantitatieveNormwaarde>11</geo:kwantitatieveNormwaarde>
             </geo:Locatie>
             <geo:Locatie>
+               <geo:naam>Zuilichem industriegebied 5</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-6d17cb0b-f488-47f5-8018-667a4c6e67c9-xx">
                      <basisgeo:id>6d17cb0b-f488-47f5-8018-667a4c6e67c9</basisgeo:id>

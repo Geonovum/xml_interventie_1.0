@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0297/2019/Oppervlakte</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0297/2019/Oppervlakte/nld@2022-06-24;1234-2022</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Oppervlakte.gml</bestandsnaam>
+                  <hash>4d5c7122f32d10d75edbc8fe291ced00c3f5b5299dee76ca9422d00286f75daa0b25fc7a3cf181aa6790a6d81ee373be05405f6213f5f243ef7ab5965a1d77a7</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+         <heeftGeboorteregeling>/akn/nl/act/gm0297/2019/reg456</heeftGeboorteregeling>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0297</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Maximum Oppervlakte</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/gm0297/2019/Oppervlakte</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>
