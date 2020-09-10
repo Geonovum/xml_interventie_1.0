@@ -9,7 +9,8 @@
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
             <geo:FRBRWork>/join/id/regdata/gm0297/2019/Bouwhoogte</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</geo:FRBRExpression>
+            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2022-06-24;1234-2022</geo:FRBRExpression>
+            <geo:eenheidID>meters_maaiveld</geo:eenheidID>
             <geo:normlabel>Maximum bouwhoogte</geo:normlabel>
             <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</geo:normID>
             <geo:locaties>

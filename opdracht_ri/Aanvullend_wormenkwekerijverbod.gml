@@ -12,6 +12,7 @@
             <geo:FRBRExpression>/join/id/regdata/pv25/2022/Aanvullend_wormenkwekerijverbod/nld@2022-05-06;RI0001</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Aanvullend wormenkwekerijverbod</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-41e10ad2-cfa4-47e1-844e-085185451254-xx">
                             <basisgeo:id>41e10ad2-cfa4-47e1-844e-085185451254</basisgeo:id>

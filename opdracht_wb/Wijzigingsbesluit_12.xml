@@ -164,11 +164,11 @@
                   <Wat>Artikel 2.16 wordt als volgt vernummerd:</Wat>
                   <Kop>
                      <Label>Artikel</Label>
-                     <Nummer>2.17</Nummer>
+                     <Nummer>2.1<VerwijderdeTekst>6</VerwijderdeTekst><NieuweTekst>7</NieuweTekst></Nummer>
                      <Opschrift>Toedeling functie Landelijk gebied</Opschrift>
                   </Kop>
                </VervangKop>
-               <VoegToe positie="komtVoor" context="gm0297_1__subchp_2.6__art_2.17">
+               <VoegToe positie="komtVoor" context="gm0297_1__subchp_2.6__art_2.16">
                   <Nummer>B</Nummer>
                   <Wat>Voor artikel 2.17 wordt een artikel ingevoegd, luidende:</Wat>
                   <Artikel eId="chp_2__subchp_2.6__art_2.16" wId="gm0297_12__chp_2__subchp_2.6__art_2.16">
@@ -185,7 +185,7 @@
                               wId="gm0297_12__chp_2__subchp_2.6__art_2.16__list_o_1__item_1">
                               <LiNummer>1.</LiNummer>
                               <Al>Functietoedeling</Al>
-                              <Al>Aan het werkingsgebied ‘Geitenfokkerij’ wordt de functie Geitenfokkerij toegedeeld. </Al>
+                              <Al>Aan het werkingsgebied ‘<IntIoRef eId="chp_2__subchp_2.6__art_2.16__list_o_1__item_2__ref_o_1" wId="chp_2__subchp_2.6__art_2.16__list_o_1__item_2__ref_o_1" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">Geitenfokkerij</IntIoRef>’ wordt de functie Geitenfokkerij toegedeeld. </Al>
                            </Li>
                            <Li eId="chp_2__subchp_2.6__art_2.16__list_o_1__item_2"
                               wId="gm0297_12__chp_2__subchp_2.6__art_2.16__list_o_1__item_2">
@@ -207,12 +207,12 @@
                         <Opschrift>Bouwregels voor bedrijfsgebouwen voor varkenshouderijen en geitenfokkerijen</Opschrift>
                      </Kop>
                      <Inhoud>
-                        <Al>Ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_1" wId="gm0297_1__chp_5__subchp_5.1__art_5.12__ref_o_1" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_2">bouwen en instandhouden bedrijfsgebouwen varkenshouderijen en geitenfokkerijen</IntIoRef>’ </Al>
+                        <Al>Ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_1" wId="gm0297_12__chp_5__subchp_5.1__art_5.12__ref_o_1" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_2">bouwen en instandhouden bedrijfsgebouwen varkenshouderijen en geitenfokkerijen</IntIoRef>’ </Al>
                         <Al>is het bouwen en instandhouden van bedrijfsgebouwen voor varkenshouderijen </Al>
                         <Al>en geitenfokkerijen toegestaan, met dien verstande dat de goothoogte van de bedrijfsgebouwen niet </Al>
-                        <Al>hoger mag zijn dan de waarde die is aangegeven ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_2" wId="gm0297_1__chp_5__subchp_5.1__art_5.12__ref_o_2" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1">Maximum bouwhoogte</IntIoRef>’</Al>
+                        <Al>hoger mag zijn dan de waarde die is aangegeven ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_2" wId="gm0297_12__chp_5__subchp_5.1__art_5.12__ref_o_2" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1">Maximum bouwhoogte</IntIoRef>’</Al>
                         <Al>, de goothoogte van de bedrijfsgebouwen niet hoger mag zijn dan de waarde die is </Al>
-                        <Al>aangegeven ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_3" wId="gm0297_1__subchp_5.1__art_5.12__ref_o_3" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Maximum goothoogte</IntIoRef>’ en de oppervlakte van de </Al>
+                        <Al>aangegeven ter plaatse van het werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_3" wId="gm0297_12__subchp_5.1__art_5.12__ref_o_3" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Maximum goothoogte</IntIoRef>’ en de oppervlakte van de </Al>
                         <Al>bedrijfsgebouwen niet groter mag zijn dan de waarde die is aangegeven ter plaatse van het </Al>
                         <Al>werkingsgebied ‘<IntIoRef eId="chp_5__subchp_5.1__art_5.12__ref_o_4" wId="gm0297_12__subchp_5.1__art_5.12__ref_o_4" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1">Maximum oppervlakte</IntIoRef>’.</Al>
                      </Inhoud>
@@ -232,34 +232,38 @@
                      </Inhoud>
                   </Artikel>
                </Verwijder>
-               <VervangKop wat="gm0297_1__chp_7__subchp_7.1__art_7.2" eId-wordt="gm0297_12__chp_7__subchp_7.1__art_7.1">
+               <Vervang wat="gm0297_1__chp_7__subchp_7.1__art_7.2">
                   <Nummer>E</Nummer>
-                  <Wat>Artikel 7.2 wordt als volgt vernummerd:</Wat>
-                  <Kop>
-                     <Label>Artikel</Label>
-                     <Nummer>7.1</Nummer>
-                     <Opschrift></Opschrift>
-                  </Kop>
-               </VervangKop>
+                  <Artikel eId="chp_7__subchp_7.1__art_7.1" wId="gm0297_12__chp_7__subchp_7.1__art_7.1">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>7.<VerwijderdeTekst>2</VerwijderdeTekst><NieuweTekst>1</NieuweTekst></Nummer>
+                        <Opschrift>Wormenkwekerijverbod</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Al>Het oprichten, instandhouden en gebruiken van bouwwerken en het gebruik van gronden ten behoeve van wormenkwekerijen is verboden<NieuweTekst> in het werkingsgebied ‘<IntIoRef wId="gm0297_12__chp_7__subchp_7.1__art_7.1__ref_o_1" eId="chp_7__subchp_7.1__art_7.1__ref_o_1" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1">Wormenkwekerijverbod</IntIoRef>'</NieuweTekst>.</Al>
+                     </Inhoud>   
+                  </Artikel>
+               </Vervang>
                <Verwijder wat="gm0297_1__chp_10__subchp_10.1__art_10.2">
                   <Nummer>F</Nummer>
-                  <Wat>Artikel 10.81 wordt verwijderd:</Wat>
-                  <Artikel wId="chp_10__subchp_2.9__art_10.2" eId="gm0297_1__chp_10__subchp_2.9__art_10.2">
+                  <Wat>Artikel 10.2 wordt verwijderd:</Wat>
+                  <Artikel wId="chp_10__subchp_10.1__art_10.2" eId="gm0297_1__chp_10__subchp_10.1__art_10.2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>10.81</Nummer>
                         <Opschrift>Verwerking organische reststromen en dierlijke bijproducten</Opschrift>
                      </Kop>
                      <Inhoud>
-                        <Lijst type="expliciet" wId="chp_10__subchp_2.9__art_10.2__list_o_1" eId="gm0297_1__chp_10__subchp_2.9__art_10.2__list_o_1">
-                           <Li wId="chp_10__subchp_2.9__art_10.2__list_o_1__item_1" eId="gm0297_1__chp_10__subchp_2.9__art_10.2__list_o_1__item_1">
+                        <Lijst type="expliciet" wId="chp_10__subchp_10.1__art_10.2__list_o_1" eId="gm0297_1__chp_10__subchp_10.1__art_10.2__list_o_1">
+                           <Li wId="chp_10__subchp_10.1__art_10.2__list_o_1__item_1" eId="gm0297_1__chp_10__subchp_10.1__art_10.2__list_o_1__item_1">
                               <LiNummer>1.</LiNummer>
                               <Al>Vergunningplicht</Al>
                               <Al>Ter plaatse van het werkingsgebied ‘Verwerking organische reststromen en dierlijke </Al>
                               <Al>bijproducten’ is het verboden om zonder omgevingsvergunning activiteiten te verrichten op het </Al>
                               <Al>gebied van het verwerken van organische reststromen en dierlijke bijproducten.</Al>
                            </Li>
-                           <Li wId="chp_10__subchp_2.9__art_10.2__list_o_1__item_2" eId="gm0297_1__chp_10__subchp_2.9__art_10.2__list_o_1__item_2">
+                           <Li wId="chp_10__subchp_10.1__art_10.2__list_o_1__item_2" eId="gm0297_1__chp_10__subchp_10.1__art_10.2__list_o_1__item_2">
                               <LiNummer>2.</LiNummer>
                               <Al>2.	Beoordelingsregels</Al>
                               <Al>De omgevingsvergunning wordt slechts verleend wanneer wordt voldaan aan de volgende</Al>
@@ -333,7 +337,7 @@
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1_inst2" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</ExtIoRef>
                                  </Al>
                                  <Al wijzigactie="voegtoe">
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0297/2022/Bouwhoogte/nld@2022-06-24;1234-2022">/join/id/regdata/gm0297/2022/Bouwhoogte/nld@2022-06-24;1234-2022</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2022-06-24;1234-2022">/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2022-06-24;1234-2022</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
