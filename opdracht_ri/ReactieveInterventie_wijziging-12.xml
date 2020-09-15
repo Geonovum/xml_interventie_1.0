@@ -300,9 +300,9 @@
             </WorkIdentificatie>
          </isTijdelijkDeelVan>
       </ExpressionIdentificatie>
-      <ns1:RegelingVersieMetadata xmlns:ns1="https://standaarden.overheid.nl/stop/imop/data/">
-         <ns1:versienummer>1</ns1:versienummer>
-      </ns1:RegelingVersieMetadata>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <soortRegeling>/join/id/stop/regelingtype_011</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
