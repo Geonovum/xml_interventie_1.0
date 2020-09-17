@@ -185,7 +185,7 @@
                               wId="gm0297_12__chp_2__subchp_2.6__art_2.16__list_o_1__item_1">
                               <LiNummer>1.</LiNummer>
                               <Al>Functietoedeling</Al>
-                              <Al>Aan het werkingsgebied ‘<IntIoRef eId="chp_2__subchp_2.6__art_2.16__list_o_1__item_2__ref_o_1" wId="chp_2__subchp_2.6__art_2.16__list_o_1__item_2__ref_o_1" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">Geitenfokkerij</IntIoRef>’ wordt de functie Geitenfokkerij toegedeeld. </Al>
+                              <Al>Aan het werkingsgebied ‘<IntIoRef eId="chp_2__subchp_2.6__art_2.16__list_o_1__item_1__ref_o_1" wId="chp_2__subchp_2.6__art_2.16__list_o_1__item_1__ref_o_1" ref="gm0297_12__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">Geitenfokkerij</IntIoRef>’ wordt de functie Geitenfokkerij toegedeeld. </Al>
                            </Li>
                            <Li eId="chp_2__subchp_2.6__art_2.16__list_o_1__item_2"
                               wId="gm0297_12__chp_2__subchp_2.6__art_2.16__list_o_1__item_2">
@@ -318,7 +318,7 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4">
                               <Term>Landbouwhuisdierenverblijfhygiëne</Term>
                               <Definitie>
                                  <Al wijzigactie="verwijder">
@@ -329,7 +329,7 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5">
                               <Term>Maximum bouwhoogte bedrijfsgebouw</Term>
                               <Definitie>
                                  <Al wijzigactie="verwijder">
@@ -340,7 +340,7 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6">
                               <Term>Maximum goothoogte bedrijfsgebouw</Term>
                               <Definitie>
                                  <Al wijzigactie="verwijder">
@@ -351,7 +351,7 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
                               <Term>Maximum oppervlakte</Term>
                               <Definitie>
                                  <Al wijzigactie="verwijder">

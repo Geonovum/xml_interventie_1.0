@@ -22,7 +22,7 @@
          <informatieobjectRefs>
             <informatieobjectRef>/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001</informatieobjectRef>
             <informatieobjectRef>join/id/regdata/pv25/2022/Aanvullend_wormenkwekerijverbod/nld@2022-05-06;RI0001</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv25/2022/Landbouwhuisdierenverblijfhygiëne/nld@2022-05-06;RI0001</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt/nld@2022-05-06;RI0001</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -62,7 +62,7 @@
                <doelen>
                   <doel>/join/id/proces/pv25/2022/ReactieveInterventie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv25/2022/Landbouwhuisdierenverblijfhygiëne/nld@2022-05-06;RI0001</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt/nld@2022-05-06;RI0001</instrumentVersie>
                <eId>!reactieve_interventie_w12#cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
@@ -276,7 +276,7 @@
                               <Term>Landbouwhuisdierenverblijfhygiëne</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/pv25/2022/Landbouwhuisdierenverblijfhygiëne/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Landbouwhuisdierenverblijfhygiëne/nld@2022-05-06;RI0001</ExtIoRef>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt/nld@2022-05-06;RI0001</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
