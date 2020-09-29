@@ -37,7 +37,7 @@
             <ontvangenOp>2022-05-02</ontvangenOp>
             <procedurestappen>
                <Procedurestap>
-                  <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+                  <soortStap>/join/id/stop/procedure/stap_003</soortStap> <!--Ondertekening-->
                   <voltooidOp>2022-04-25</voltooidOp>
                </Procedurestap>
             </procedurestappen>
@@ -105,7 +105,7 @@
             <Tijdstempel>
                <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2022-05-09</datum>
+               <datum>2022-06-06</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -145,11 +145,10 @@
          <Sluiting wId="formula_2" eId="formula_2">
             <Al>Aldus besloten in de vergadering d.d. 24 april 2022</Al>
             <Ondertekening>
-               <Al>Gedeputeerde Raad van Apeldoorn tot Den Haag</Al>
+               <Al>De voorzitter</Al>
                <Al>Yue Wan Fan</Al>
-               <Al>gemeentesecretaris</Al>
+               <Al>de griffier</Al>
                <Al>Nadine Bauer</Al>
-               <Al>Burgemeester</Al>
             </Ondertekening>
          </Sluiting>
          <WijzigBijlage wId="cmp_A" eId="gm0297_1__cmp_A">
