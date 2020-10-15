@@ -10,6 +10,8 @@
       <geo:GeoInformatieObjectVersie>
          <geo:FRBRWork>/join/id/regdata/gm0297/2019/Goothoogte</geo:FRBRWork>
          <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Goothoogte/nld@2022-06-24;1234-2022</geo:FRBRExpression>
+         <geo:eenheidlabel>meters boven het maaiveld</geo:eenheidlabel>
+         <geo:eenheidid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</geo:eenheidid>
          <geo:normlabel>Maximum Goothoogte</geo:normlabel>
          <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumGoothoogte</geo:normID>
          <geo:locaties>

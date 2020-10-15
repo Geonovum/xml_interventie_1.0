@@ -258,7 +258,7 @@
                               <Term>Regels maatvoering bouwen niet van toepassing</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001</ExtIoRef>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1" ref="/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
