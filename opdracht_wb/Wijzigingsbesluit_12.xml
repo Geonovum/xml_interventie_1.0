@@ -37,7 +37,7 @@
             <ontvangenOp>2022-05-02</ontvangenOp>
             <procedurestappen>
                <Procedurestap>
-                  <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+                  <soortStap>/join/id/stop/procedure/stap_003</soortStap> <!--Ondertekening-->
                   <voltooidOp>2022-04-25</voltooidOp>
                </Procedurestap>
             </procedurestappen>
@@ -105,7 +105,7 @@
             <Tijdstempel>
                <doel>/join/id/proces/gm0297/2022/Wijziging_12</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2022-05-09</datum>
+               <datum>2022-06-06</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -121,7 +121,6 @@
             <Al>overwegende dat hij de de in dat voorstel en de daarmee één geheel uitmakende Nota zienswijzen en ambtshalve wijzigingen vervatte overwegingen tot de zijne maakt en deze als zodanig geacht moeten worden hier woordelijk te zijn overgenomen;</Al>
             <Al>overwegende dat gedeputeerde staten van Provincieland tegen het ontwerp van 'omgevingsplan wijziging 12' een zienswijze hebben ingediend die wij niet volledig hebben overgenomen en dat wij wijzigingen hebben aangebracht ten opzichte van het ontwerp anders dan als gevolg van een zienswijze van gedeputeerde staten en er dus sprake is van een geval als bedoeld in artikel 16.21 Omgevingswet waardoor wij op grond van het eerste lid van artikel 10.3 Omgevingsbesluit dit besluit onverwijld aan gedeputeerde staten dienen te zenden;</Al>
             <Al>gelet op de bepalingen bij en krachtens de Omgevingswet;</Al>
-            <Al/>
             <Al>besluiten:</Al>
          </Aanhef>
          <Lichaam wId="body" eId="body">
@@ -145,11 +144,10 @@
          <Sluiting wId="formula_2" eId="formula_2">
             <Al>Aldus besloten in de vergadering d.d. 24 april 2022</Al>
             <Ondertekening>
-               <Al>Gedeputeerde Raad van Apeldoorn tot Den Haag</Al>
+               <Al>De voorzitter</Al>
                <Al>Yue Wan Fan</Al>
-               <Al>gemeentesecretaris</Al>
+               <Al>de griffier</Al>
                <Al>Nadine Bauer</Al>
-               <Al>Burgemeester</Al>
             </Ondertekening>
          </Sluiting>
          <WijzigBijlage wId="cmp_A" eId="gm0297_1__cmp_A">

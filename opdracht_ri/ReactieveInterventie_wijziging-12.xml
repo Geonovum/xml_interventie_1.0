@@ -30,8 +30,8 @@
             <ontvangenOp>2022-05-11</ontvangenOp>
             <procedurestappen>
                <Procedurestap>
-                  <soortStap>/join/id/stop/procedure/stap_003</soortStap>
-                  <voltooidOp>2022-06-01</voltooidOp>
+                  <soortStap>/join/id/stop/procedure/stap_002</soortStap>  <!--Vaststelling-->
+                  <voltooidOp>2022-05-10</voltooidOp>
                </Procedurestap>
             </procedurestappen>
       </Procedureverloop>
@@ -70,7 +70,7 @@
             <Tijdstempel>
                <doel>/join/id/proces/pv25/2022/ReactieveInterventie</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2022-05-11</datum>
+               <datum>2022-06-06</datum>
                <eId>art_IV</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -148,7 +148,7 @@
             </Artikel>
          </Lichaam>
          <Sluiting eId="formula_2" wId="formula_2">
-            <Al>Aldus besloten in de vergadering d.d. 6 mei 2022</Al>
+            <Al>Aldus besloten in de vergadering d.d. 10 mei 2022</Al>
             <Ondertekening>
                <Al>B.Y. Twaalf</Al>
                <Al>De voorzitter</Al>
@@ -258,7 +258,7 @@
                               <Term>Regels maatvoering bouwen niet van toepassing</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001</ExtIoRef>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1" ref="/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
