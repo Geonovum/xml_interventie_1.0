@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:data="https://standaarden.overheid.nl/stop/imop/data/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/" schemaversie="1.0.4-rc">
+<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:data="https://standaarden.overheid.nl/stop/imop/data/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/" schemaversie="1.0.3">
     <geo:context>
         <gio:GeografischeContext>
             <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -9,7 +9,7 @@
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
             <geo:FRBRWork>/join/id/regdata/pv025/2020/Rivierzone</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/pv025/2020/Rivierzone/nld@2019-05-11;RIT0001</geo:FRBRExpression>
+            <geo:FRBRExpression>/join/id/regdata/pv025/2020/Rivierzone/nld@2020-05-11;RIT0001</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
                     <geo:naam>Rivierzone</geo:naam>

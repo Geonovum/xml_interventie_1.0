@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.4-rc"	
+<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3"	
   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
   https://standaarden.overheid.nl/lvbb/1.0.4-rc/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/pv025/2020/Rivierzone</FRBRWork>
-      <FRBRExpression>/join/id/regdata/pv025/2020/Rivierzone/nld@2019-05-11;RIT0001</FRBRExpression>
+      <FRBRExpression>/join/id/regdata/pv025/2020/Rivierzone/nld@2020-05-11;RIT0001</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -13,7 +13,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>Rivierzone.gml</bestandsnaam>
-            <hash>fac3fadf98576a34a37a5a9afce6c3cd5749b170eaca366ccceaafa1cffe6bd2e6a1733b451cc1187ed59aafe3233b5b21d6e62f2c1bb6442724670b696009e9</hash>
+            <hash>dfae8c8e66b193c724ed9684d6a77212c7e6010afc0cc9988744ce8a083fdf8b66caec90183309833cbdc086741512f8c1f236fbbefe045efc4f9ab6c7b677cb</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>

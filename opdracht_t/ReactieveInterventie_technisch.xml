@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit 
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
+<AanleveringBesluit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3"> 
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/pv25/2020/RIT0001</FRBRWork>
@@ -11,7 +10,8 @@
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv25</maker>
-         <officieleTitel>Reactieve interventie aan de gemeente Gemeentestad i.v.m. bouwhoogte</officieleTitel>
+         <officieleTitel>Reactieve interventie aan de gemeente Gemeentestad i.v.m.
+            bouwhoogte</officieleTitel>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_989e37d9</onderwerp>
          </onderwerpen>
@@ -20,18 +20,18 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/pv025/2020/Rivierzone/nld@2019-05-11;RIT0001</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv025/2020/Rivierzone/nld@2020-05-11;RIT0001</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <bekendOp>2020-05-11</bekendOp>
-            <ontvangenOp>2020-05-11</ontvangenOp>
-            <procedurestappen>
-               <Procedurestap>
-                  <soortStap>/join/id/stop/procedure/stap_003</soortStap>
-                  <voltooidOp>2020-06-01</voltooidOp>
-               </Procedurestap>
-            </procedurestappen>
+         <bekendOp>2020-05-11</bekendOp>
+         <ontvangenOp>2020-05-11</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2020-06-01</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
       </Procedureverloop>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <BeoogdeRegelgeving>
@@ -46,7 +46,7 @@
                <doelen>
                   <doel>/join/id/proces/pv25/2020/ReactieveInterventie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv025/2020/Rivierzone/nld@2019-05-11;RIT0001</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv025/2020/Rivierzone/nld@2020-05-11;RIT0001</instrumentVersie>
                <eId>!reactieve_interventie_w12#cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
@@ -65,11 +65,21 @@
          </RegelingOpschrift>
          <Aanhef eId="formula_1" wId="formula_1">
             <Al>Gedeputeerde staten van de provincie Provincieland,</Al>
-            <Al>overwegende dat burgemeester en wethouders van de gemeente Gemeentestad in het omgevingsplan een bepaling voor maximale bouwhoogte heeft opgenomen;</Al>
-            <Al>overwegende dat de daarin opgenomen mogelijkheid om hoger te bouwen dan 10 meter, in strijd is met het daarover in onze omgevingsverordening bepaalde waardoor er sprake is van strijd met een belang als bedoeld in artikel 2.3, tweede lid, onder a, Omgevingswet, dat is aangegeven in een door een bestuursorgaan van de provincie openbaar gemaakt document;</Al>
-            <Al>overwegende dat wij tegen het ontwerp van 'omgevingsplan wijziging 12' binnen de termijn die daarvoor openstond een zienswijze hebben ingediend;</Al>
-            <Al>overwegende dat wij het provinciaal belang inzake bouwhoogten in afdoende mate hebben vastgelegd in de omgevingsverordening en dat voor ons geen andere bevoegdheden open stonden om het provinciaal belang te behartigen;</Al>
-            <Al>overwegende dat wij het op grond van het tweede lid van artikel 10.3 Omgevingsbesluit verplichte overleg met burgemeester en wethouders hebben gevoerd;</Al>
+            <Al>overwegende dat burgemeester en wethouders van de gemeente Gemeentestad in het
+               omgevingsplan een bepaling voor maximale bouwhoogte heeft opgenomen;</Al>
+            <Al>overwegende dat de daarin opgenomen mogelijkheid om hoger te bouwen dan 10 meter, in
+               strijd is met het daarover in onze omgevingsverordening bepaalde waardoor er sprake
+               is van strijd met een belang als bedoeld in artikel 2.3, tweede lid, onder a,
+               Omgevingswet, dat is aangegeven in een door een bestuursorgaan van de provincie
+               openbaar gemaakt document;</Al>
+            <Al>overwegende dat wij tegen het ontwerp van 'omgevingsplan wijziging 12' binnen de
+               termijn die daarvoor openstond een zienswijze hebben ingediend;</Al>
+            <Al>overwegende dat wij het provinciaal belang inzake bouwhoogten in afdoende mate
+               hebben vastgelegd in de omgevingsverordening en dat voor ons geen andere bevoegdheden
+               open stonden om het provinciaal belang te behartigen;</Al>
+            <Al>overwegende dat wij het op grond van het tweede lid van artikel 10.3
+               Omgevingsbesluit verplichte overleg met burgemeester en wethouders hebben
+               gevoerd;</Al>
             <Al>gelet op de bepalingen van artikel 16.21 Omgevingswet;</Al>
             <Al>besluiten:</Al>
          </Aanhef>
@@ -80,10 +90,13 @@
                   <Nummer>I</Nummer>
                </Kop>
                <Inhoud>
-                  <Al>Het omgevingsplan moet in lijn gebracht worden met de omgevingsverordening, het betreft:</Al>
+                  <Al>Het omgevingsplan moet in lijn gebracht worden met de omgevingsverordening,
+                     het betreft:</Al>
                   <Lijst type="ongemarkeerd" wId="art_I__list_o_1" eId="gm0297_1__art_I__list_o_1">
                      <Li wId="art_I__list_o_1__item_o_1" eId="gm0297_1__art_I__list_o_1__item_o_1">
-                        <Al>het wijzigen van de maximale bouwhoogte daar waar niet overeenkomstig met omgevingsverordening (artikel 2.14 en het bijbehorende geografisch informatieobject ‘Maximum bouwhoogte bedrijfsgebouw’);</Al>
+                        <Al>het wijzigen van de maximale bouwhoogte daar waar niet overeenkomstig
+                           met omgevingsverordening (artikel 2.14 en het bijbehorende geografisch
+                           informatieobject ‘Maximum bouwhoogte bedrijfsgebouw’);</Al>
                      </Li>
                   </Lijst>
                </Inhoud>
@@ -93,7 +106,8 @@
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
                </Kop>
-               <Wat>Door deze reactieve interventie gelden de betreffende onderdelen zoals aangegeven in bijlage 1.</Wat>
+               <Wat>Door deze reactieve interventie gelden de betreffende onderdelen zoals
+                  aangegeven in bijlage 1.</Wat>
             </WijzigArtikel>
             <Artikel wId="art_III" eId="gm0297_1__art_III">
                <Kop>
@@ -101,7 +115,9 @@
                   <Nummer>III</Nummer>
                </Kop>
                <Inhoud>
-                  <Al>De gemeenteraad dient er voor te zorgen dat het omgevingsplan binnen 5 werkdagen na bekendmaking van dit besluit in overeenstemming is met bijlage 1.</Al>
+                  <Al>De gemeenteraad dient er voor te zorgen dat het omgevingsplan binnen 5
+                     werkdagen na bekendmaking van dit besluit in overeenstemming is met bijlage
+                     1.</Al>
                </Inhoud>
             </Artikel>
             <Artikel eId="art_IV" wId="pv25_1.0__art_IV">
@@ -110,7 +126,9 @@
                   <Nummer>IV</Nummer>
                </Kop>
                <Inhoud>
-                  <Al>Dit besluit treedt in werking gelijktijdig met de inwerkingtreding van het besluit 2020-34 van de gemeenteraad van de gemeente Gemeentestad tot wijziging van het omgevingsplan.</Al>
+                  <Al>Dit besluit treedt in werking gelijktijdig met de inwerkingtreding van het
+                     besluit 2020-34 van de gemeenteraad van de gemeente Gemeentestad tot wijziging
+                     van het omgevingsplan.</Al>
                </Inhoud>
             </Artikel>
          </Lichaam>
@@ -129,7 +147,8 @@
                <Nummer>1</Nummer>
                <Opschrift>Bijlage bij Artikel I</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="reactieve_interventie_w12" wordt="/akn/nl/act/pv25/2020/RIT0001/nld@2020-05-06">
+            <RegelingTijdelijkdeel componentnaam="reactieve_interventie_w12"
+               wordt="/akn/nl/act/pv25/2020/RIT0001/nld@2020-05-06">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Reactieve interventie aan de gemeente Gemeentestad i.v.m. bouwhoogte</Al>
                </RegelingOpschrift>
@@ -140,7 +159,12 @@
                            <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Indien en voorzover de geconsolideerde regeling van het omgevingsplan van de gemeente Gemeentestad niet in overeenstemming is gebracht met de bepalingen van hoofdstuk 1 van deze reactieve interventie, gelden uitsluitend de bepalingen van hoofdstuk 1, met inachtneming van de geografische informatieobjecten in de Bijlage Geografische informatieobjecten.</Al>
+                           <Al>Indien en voorzover de geconsolideerde regeling van het omgevingsplan
+                              van de gemeente Gemeentestad niet in overeenstemming is gebracht met
+                              de bepalingen van hoofdstuk 1 van deze reactieve interventie, gelden
+                              uitsluitend de bepalingen van hoofdstuk 1, met inachtneming van de
+                              geografische informatieobjecten in de Bijlage Geografische
+                              informatieobjecten.</Al>
                         </Inhoud>
                      </Artikel>
                   </Conditie>
@@ -156,7 +180,15 @@
                            <Nummer>1.1</Nummer>
                         </Kop>
                         <Inhoud>
-                           <Al>Artikel 2.14 (Bouwregels bedrijfsgebouwen), voor item d en het bijbehorende werkingsgebied dat is vastgelegd in het geografisch informatieobject ‘Maximum bouwhoogte bedrijfsgebouw’ van bijlage I van de hoofdregeling van het omgevingsplan geldt voor het werkingsgebied dat is vastgelegd in het geografisch informatieobject ‘<IntIoRef eId="chp_1__art_1.1__list_o_1__item_B__ref_o_1" wId="pv25_1__chp_1__art_1.1__ref_o_1" ref="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1">Rivierzone</IntIoRef>’ een maxmimale bouwhoogte van 10 meter.</Al>
+                           <Al>Artikel 2.14 (Bouwregels bedrijfsgebouwen), voor item d en het
+                              bijbehorende werkingsgebied dat is vastgelegd in het geografisch
+                              informatieobject ‘Maximum bouwhoogte bedrijfsgebouw’ van bijlage I van
+                              de hoofdregeling van het omgevingsplan geldt voor het werkingsgebied
+                              dat is vastgelegd in het geografisch informatieobject ‘<IntIoRef
+                                 eId="chp_1__art_1.1__list_o_1__item_B__ref_o_1"
+                                 wId="pv25_1__chp_1__art_1.1__ref_o_1"
+                                 ref="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                 >Rivierzone</IntIoRef>’ een maxmimale bouwhoogte van 10 meter.</Al>
                         </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
@@ -168,12 +200,17 @@
                   </Kop>
                   <Divisietekst wId="cmp_A__content_o_1" eId="pv25_1__cmp_A__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst wId="cmp_A__content_o_1__list_o_1" eId="pv25_1__cmp_A__content_o_1__list_o_1">
-                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1">
+                        <Begrippenlijst wId="cmp_A__content_o_1__list_o_1"
+                           eId="pv25_1__cmp_A__content_o_1__list_o_1">
+                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_1"
+                              wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1">
                               <Term>Rivierzone</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/pv025/2020/Rivierzone/nld@2019-05-11;RIT0001">/join/id/regdata/pv025/2020/Rivierzone/nld@2019-05-11;RIT0001</ExtIoRef>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/pv025/2020/Rivierzone/nld@2020-05-11;RIT0001"
+                                       >/join/id/regdata/pv025/2020/Rivierzone/nld@2020-05-11;RIT0001</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -204,9 +241,11 @@
          <soortRegeling>/join/id/stop/regelingtype_011</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv25</maker>
-         <officieleTitel>Reactieve interventie aan de gemeente Gemeentestad i.v.m. bouwhoogte</officieleTitel>
+         <officieleTitel>Reactieve interventie aan de gemeente Gemeentestad i.v.m.
+            bouwhoogte</officieleTitel>
          <alternatieveTitels>
-            <alternatieveTitel>Reactieve interventie aan de gemeente Gemeentestad i.v.m. bouwhoogte</alternatieveTitel>
+            <alternatieveTitel>Reactieve interventie aan de gemeente Gemeentestad i.v.m.
+               bouwhoogte</alternatieveTitel>
          </alternatieveTitels>
          <overheidsdomeinen>
             <overheidsdomein>/tooi/def/concept/c_bed49b60</overheidsdomein>
