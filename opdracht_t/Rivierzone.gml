@@ -8,8 +8,8 @@
     </geo:context>
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
-            <geo:FRBRWork>/join/id/regdata/pv025/2020/Rivierzone</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/pv025/2020/Rivierzone/nld@2020-05-11;RIT0001</geo:FRBRExpression>
+            <geo:FRBRWork>/join/id/regdata/pv25/2020/Rivierzone</geo:FRBRWork>
+            <geo:FRBRExpression>/join/id/regdata/pv25/2020/Rivierzone/nld@2020-05-11;RIT0001</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
                     <geo:naam>Rivierzone</geo:naam>

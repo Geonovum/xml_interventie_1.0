@@ -4,8 +4,8 @@
   https://standaarden.overheid.nl/lvbb/1.0.4-rc/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/pv025/2020/Rivierzone</FRBRWork>
-      <FRBRExpression>/join/id/regdata/pv025/2020/Rivierzone/nld@2020-05-11;RIT0001</FRBRExpression>
+      <FRBRWork>/join/id/regdata/pv25/2020/Rivierzone</FRBRWork>
+      <FRBRExpression>/join/id/regdata/pv25/2020/Rivierzone/nld@2020-05-11;RIT0001</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -13,19 +13,19 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>Rivierzone.gml</bestandsnaam>
-            <hash>dfae8c8e66b193c724ed9684d6a77212c7e6010afc0cc9988744ce8a083fdf8b66caec90183309833cbdc086741512f8c1f236fbbefe045efc4f9ab6c7b677cb</hash>
+            <hash>c659a41c61af3577a0a8f0082204a3e30afda073fa8aa5d4e7d6fd1fffe39e766a97e3349dbe24bebcd209a713e0bcfde51391a688549b2f61ab01ea59356519</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
       <heeftGeboorteregeling>/akn/nl/act/pv25/2020/RIT0001</heeftGeboorteregeling>
     </InformatieObjectVersieMetadata>
     <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/tooi/id/gemeente/pv025</eindverantwoordelijke>
-      <maker>/tooi/id/gemeente/pv025</maker>
+      <eindverantwoordelijke>/tooi/id/gemeente/pv25</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/pv25</maker>
       <alternatieveTitels>
         <alternatieveTitel>Zone A</alternatieveTitel>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/pv025/2020/Rivierzone</officieleTitel>
+      <officieleTitel>/join/id/regdata/pv25/2020/Rivierzone</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
