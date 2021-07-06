@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv25/2020/Rivierzone</FRBRWork>
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Rivierzone.gml</bestandsnaam>
-                  <hash>be264f8b3081a7198abba0d1addbeed79b933396983943db0102be9f56d5e48b0d93a0fcd31e714ced2c58c224862855a44d4f35e6173cbc4e7ff590ceaa00bd</hash>
+                  <hash>ad7f4667d6f51da1cc918902c94410acb5e64391d734002e854c3590e04b3351fc371d440d7ddc4a1ec0b4a8c57910e8b42c3b2df4fd9865117b06c8eac7065e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

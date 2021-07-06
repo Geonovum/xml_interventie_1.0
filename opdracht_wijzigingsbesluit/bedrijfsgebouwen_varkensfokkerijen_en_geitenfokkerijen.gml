@@ -6,7 +6,9 @@
     xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" 
     xmlns:gml="http://www.opengis.net/gml/3.2" 
     xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/" 
-    schemaversie="1.0.3">
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.1.0/imop-geo.xsd"
+    schemaversie="1.1.0">
     <geo:context>
         <gio:GeografischeContext>
             <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>

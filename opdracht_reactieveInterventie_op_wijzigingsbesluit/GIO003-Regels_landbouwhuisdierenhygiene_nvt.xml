@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-   schemaversie="1.0.3">
+   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   schemaversie="1.1.0"
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt</FRBRWork>
@@ -13,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regels_landbouwhuisdierenhygiene_nvt.gml</bestandsnaam>
-                  <hash>70996d6d24c74a7c81b037fe743d0d2ef9486e11fba84b99bdbd4f376e03d3aa39f07bafe5a2f55f379f79932c788d1d319897a5b71446e3ec33cac07c00bfb2</hash>
+                  <hash>d9b45eb75ca8166dec95fe6e17ba94a37e3ef067175b9c219190d9151a73f5857d96c12bf6e304775bcabc3fb6dc567fabfe57ebc1941f78d70bc006cb8761cd</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

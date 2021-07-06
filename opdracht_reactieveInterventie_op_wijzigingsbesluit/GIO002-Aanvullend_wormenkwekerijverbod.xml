@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-   schemaversie="1.0.3">
+   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   schemaversie="1.1.0"
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv25/2022/Aanvullend_wormenkwekerijverbod</FRBRWork>
@@ -13,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Aanvullend_wormenkwekerijverbod.gml</bestandsnaam>
-                  <hash>636139cd59e977aa828f808a1f983e3a2df16eafd5eca64e4ea63400407f6ecc9e43edfcc7e599f72ed56ca4cab4d6f0f7c67eed097400b56aeffb89c4c5a348</hash>
+                  <hash>97f2b6fa8116eb241c6925f1576c057de30baa6fc2bd024e18427ec4a487e09236180431bf596aa63ed458053c8f8bde9d511b3b48d45f5d067aa4401b4195c1</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
