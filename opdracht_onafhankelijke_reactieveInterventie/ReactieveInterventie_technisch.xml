@@ -43,7 +43,7 @@
                <doelen>
                   <doel>/join/id/proces/pv25/2020/ReactieveInterventie</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/pv25/2020/RIT0001/nld@2020-05-11</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/pv25/2020/RIT0001/nld@2020-05-06</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
@@ -113,7 +113,7 @@
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
                </Kop>
-               <Wat>Door deze reactieve interventie gelden de betreffende onderdelen zoals
+               <Wat>Door deze <IntRef ref="cmp_1">reactieve interventie</IntRef> gelden de betreffende onderdelen zoals
                   aangegeven in bijlage 1.</Wat>
             </WijzigArtikel>
             <Artikel wId="art_III" eId="gm0297_1__art_III">
@@ -234,7 +234,7 @@
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
                <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
-               <soortWork>/join/id/stop/work_006</soortWork>
+               <soortWork>/join/id/stop/work_019</soortWork>
             </WorkIdentificatie>
          </isTijdelijkDeelVan>
       </ExpressionIdentificatie>

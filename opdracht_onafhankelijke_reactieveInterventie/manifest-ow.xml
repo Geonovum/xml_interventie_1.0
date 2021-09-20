@@ -4,8 +4,8 @@
                xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
    <domein>omgevingswet</domein>
    <Aanlevering>
-      <WorkIDRegeling>/akn/nl/act/gm0297/2019/reg456</WorkIDRegeling>
-      <DoelID>/join/id/proces/pv25/2022/ReactieveInterventie</DoelID>
+      <WorkIDRegeling>/akn/nl/act/pv25/2020/RIT0001</WorkIDRegeling>
+      <DoelID>/join/id/proces/pv25/2020/ReactieveInterventie</DoelID>
       <Bestand>
          <naam>owLocaties_reactieve-interventie.xml</naam>
          <objecttype>Gebied</objecttype>
