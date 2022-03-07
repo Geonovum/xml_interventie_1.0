@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit 
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.1.0"
-   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/pv25/2022/RI0001</FRBRWork>
@@ -27,14 +27,15 @@
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <bekendOp>2022-05-11</bekendOp>
-            <ontvangenOp>2022-05-11</ontvangenOp>
-            <procedurestappen>
-               <Procedurestap>
-                  <soortStap>/join/id/stop/procedure/stap_002</soortStap>  <!--Vaststelling-->
-                  <voltooidOp>2022-05-10</voltooidOp>
-               </Procedurestap>
-            </procedurestappen>
+         <bekendOp>2022-05-11</bekendOp>
+         <ontvangenOp>2022-05-11</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>  
+               <!--Vaststelling-->
+               <voltooidOp>2022-05-10</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
       </Procedureverloop>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <BeoogdeRegelgeving>
@@ -93,43 +94,45 @@
             <Al>besluiten:</Al>
          </Aanhef>
          <Lichaam eId="body" wId="body">
-            <Artikel eId="art_I" wId="pv25_1.0__art_I">
+            <Artikel eId="art_I" wId="pv25_1__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
                <Inhoud>
                   <Al>Omgevingsplan wijziging 12 maakt geen deel uit van het omgevingsplan voor zover het betreft:</Al>
-                  <Lijst type="ongemarkeerd" wId="art_I__list_o_1" eId="gm0297_1__art_I__list_o_1">
-                     <Li wId="art_I__list_o_1__item_o_1" eId="gm0297_1__art_I__list_o_1__item_o_1">
+                  <Lijst eId="art_I__list_o_1"
+                         wId="pv25_1__art_I__list_o_1"
+                         type="ongemarkeerd">
+                     <Li eId="art_I__list_o_1__item_o_1" wId="pv25_1__art_I__list_o_1__item_o_1">
                         <Al>het toedelen van de functie Geitenfokkerij (artikel 4.2 en het bijbehorende geografisch informatieobject ‘Geitenfokkerij’);</Al>
                      </Li>
-                     <Li wId="art_I__list_o_1__item_o_2" eId="gm0297_1__art_I__list_o_2__item_o_1">
+                     <Li eId="art_I__list_o_1__item_o_2" wId="pv25_1__art_I__list_o_1__item_o_2">
                         <Al>het toevoegen van regels voor het bouwen en instandhouden van bedrijfsgebouwen zover dat betrekking heeft op geitenfokkerijen (artikel 5.32 en het bijbehorende geografisch informatieobject);</Al>
                      </Li>
-                     <Li wId="art_I__list_o_1__item_o_3" eId="gm0297_1__art_I__list_o_3__item_o_1">
+                     <Li eId="art_I__list_o_1__item_o_3" wId="pv25_1__art_I__list_o_1__item_o_3">
                         <Al>de uitbreiding van de gebieden waar de regels over maximum bouwhoogte, maximum goothoogte en maximum oppervlakte van toepassing zijn, voor zover deze betrekking hebben op geitenfokkerijen (de geografische informatieobjecten ‘Maximum bouwhoogte’, ‘Maximum goothoogte’ en ‘Maximum oppervlakte’;</Al>
                      </Li>
-                     <Li wId="art_I__list_o_1__item_o_4" eId="gm0297_1__art_I__list_o_4__item_o_1">
+                     <Li eId="art_I__list_o_1__item_o_4" wId="pv25_1__art_I__list_o_1__item_o_4">
                         <Al>het vergroten van het gebied waarvoor de regels over hygiëne van verblijven van landbouwhuisdieren van toepassing zijn met het gebied waaraan de functie Geitenfokkerij is toegedeeld (wijziging van het geografisch informatieobject Landbouwhuisdierenverblijfhygiëne);</Al>
                      </Li>
-                     <Li wId="art_I__list_o_1__item_o_5" eId="gm0297_1__art_I__list_o_5__item_o_1">
+                     <Li eId="art_I__list_o_1__item_o_5" wId="pv25_1__art_I__list_o_1__item_o_5">
                         <Al>het schrappen van het geitenfokkerijverbod;</Al>
                      </Li>
-                     <Li wId="art_I__list_o_1__item_o_6" eId="gm0297_1__art_I__list_o_6__item_o_1">
+                     <Li eId="art_I__list_o_1__item_o_6" wId="pv25_1__art_I__list_o_1__item_o_6">
                         <Al>de verkleinen van het gebied waar het wormenkwekerijverbod van toepassing is (artikel 7.4 en het bijbehorende geografische informatieobject Wormenkwekerijverbod).</Al>
                      </Li>
                   </Lijst>
                </Inhoud>
             </Artikel>
-            <WijzigArtikel eId="art_II" wId="pv25_1.0__art_II">
+            <WijzigArtikel eId="art_II" wId="pv25_1__art_II">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
                </Kop>
                <Wat>Door deze reactieve interventie gelden de betreffende onderdelen zoals aangegeven in bijlage 1.</Wat>
             </WijzigArtikel>
-            <Artikel wId="art_III" eId="gm0297_1__art_III">
+            <Artikel eId="art_III" wId="pv25_1__art_III">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>III</Nummer>
@@ -138,7 +141,7 @@
                   <Al>De gemeenteraad dient er voor te zorgen dat het omgevingsplan binnen 5 werkdagen na bekendmaking van dit besluit in overeenstemming is met bijlage 1.</Al>
                </Inhoud>
             </Artikel>
-            <Artikel eId="art_IV" wId="pv25_1.0__art_IV">
+            <Artikel eId="art_IV" wId="pv25_1__art_IV">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>IV</Nummer>
@@ -157,19 +160,20 @@
                <Al>De griffier</Al>
             </Ondertekening>
          </Sluiting>
-         <WijzigBijlage eId="cmp_1" wId="pv25_1.0__cmp_1">
+         <WijzigBijlage eId="cmp_1" wId="pv25_1__cmp_1">
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>1</Nummer>
                <Opschrift>Bijlage bij Artikel I</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="reactieve_interventie_w12" wordt="/akn/nl/act/pv25/2022/RI0001/nld@2022-05-06">
+            <RegelingTijdelijkdeel componentnaam="reactieve_interventie_w12"
+                                   wordt="/akn/nl/act/pv25/2022/RI0001/nld@2022-05-06">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Reactieve interventie aan de gemeente Gemeentestad i.v.m. omgevingsplan wijziging 12</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
-                     <Artikel wId="art_o_1" eId="pv25_1__art_o_1">
+                     <Artikel eId="art_o_1" wId="pv25_1__art_o_1">
                         <Kop>
                            <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
@@ -178,7 +182,7 @@
                         </Inhoud>
                      </Artikel>
                   </Conditie>
-                  <Hoofdstuk eId="chp_1" wId="pv25_1.0__chp_1">
+                  <Hoofdstuk eId="chp_1" wId="pv25_1__chp_1">
                      <Kop>
                         <Label>Hoofdstuk</Label>
                         <Nummer>1</Nummer>
@@ -193,39 +197,43 @@
                            <Al>Artikel 4.2 (Toedeling Functie Geitenfokkerij) en het bijbehorende werkingsgebied dat is vastgelegd in het geografisch informatieobject ‘Geitenfokkerij’ van bijlage II van de hoofdregeling van het omgevingsplan maken geen onderdeel uit van omgevingsplan.</Al>
                         </Inhoud>
                      </Artikel>
-                     <Artikel eId="chp_1__art1.2" wId="pv25_1__chp_1__art1.2">
+                     <Artikel eId="chp_1__art_1.2" wId="pv25_1__chp_1__art_1.2">
                         <Kop>
                            <Label>Artikel</Label>
                            <Nummer>1.2</Nummer>
                         </Kop>
                         <Inhoud>
                            <Lijst eId="chp_1__art_1.2__list_o_1"
-                              wId="pv25_1__chp_1__art_1.2__list_o_1"
-                              type="expliciet">
+                                  wId="pv25_1__chp_1__art_1.2__list_o_1"
+                                  type="expliciet">
                               <Lijstaanhef>Geen onderdeel van het besluit tot wijziging van het omgevingsplan maken uit:</Lijstaanhef>
                               <Li eId="chp_1__art_1.2__list_o_1__item_1"
-                                 wId="pv25_1__chp_1__art_1.2__list_o_1__item_1">
+                                  wId="pv25_1__chp_1__art_1.2__list_o_1__item_1">
                                  <LiNummer>1.</LiNummer>
                                  <Al>Artikel 5.12 (Bouwregels voor bedrijfsgebouwen voor varkenshouderijen en geitenfokkerijen) geldt niet voor geitenfokkerijen.</Al>
                               </Li>
                               <Li eId="chp_1__art_1.2__list_o_1__item_2"
-                                 wId="pv25_1__chp_1__art_1.2__list_o_1__item_2">
+                                  wId="pv25_1__chp_1__art_1.2__list_o_1__item_2">
                                  <LiNummer>2.</LiNummer>
-                                 <Al>Het gebied dat is vastgelegd in het geografisch informatieobject ‘<IntIoRef eId="chp_1__art_1.2__list_o_1__item_2__ref_o_1" wId="pv25_1__chp_1__art_1.2__list_o_1__item_2__ref_o_1" ref="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1">Regels maatvoering bouwen niet van toepassing</IntIoRef>’ behoort niet tot het werkingsgebied van de regels over de maatvoering bouwen die zijn vastgelegd in de geografische informatieobjecten ‘Maximum bouwhoogte’, ‘Maximum goothoogte’ en ‘Maximum oppervlakte’ van bijlage II van de hoofdregeling van het omgevingsplan.</Al>
+                                 <Al>Het gebied dat is vastgelegd in het geografisch informatieobject ‘<IntIoRef eId="chp_1__art_1.2__list_o_1__item_2__ref_o_1"
+                                              wId="pv25_1__chp_1__art_1.2__list_o_1__item_2__ref_o_1"
+                                              ref="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1">Regels maatvoering bouwen niet van toepassing</IntIoRef>’ behoort niet tot het werkingsgebied van de regels over de maatvoering bouwen die zijn vastgelegd in de geografische informatieobjecten ‘Maximum bouwhoogte’, ‘Maximum goothoogte’ en ‘Maximum oppervlakte’ van bijlage II van de hoofdregeling van het omgevingsplan.</Al>
                               </Li>
                            </Lijst>
                         </Inhoud>
                      </Artikel>
-                     <Artikel wId="chp_1__art_1.3" eId="pv25_1__chp_1__art_1.3">
+                     <Artikel eId="chp_1__art_1.3" wId="pv25_1__chp_1__art_1.3">
                         <Kop>
                            <Label>Artikel</Label>
                            <Nummer>1.3</Nummer>
                         </Kop>
                         <Inhoud>
-                           <Al>Artikel 6.21 (Hygiëne van verblijven van landbouwhuisdieren) geldt niet voor het werkingsgebied dat is vastgelegd in het geografisch informatieobject ‘<IntIoRef eId="chp_1__art_1.3__list_o_1__item_B__ref_o_1" wId="pv25_1__chp_1__art_1.3__ref_o_1" ref="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1">Regels Landbouwhuisdierenhygiëne niet van toepassing</IntIoRef>’.</Al>
+                           <Al>Artikel 6.21 (Hygiëne van verblijven van landbouwhuisdieren) geldt niet voor het werkingsgebied dat is vastgelegd in het geografisch informatieobject ‘<IntIoRef eId="chp_1__art_1.3__ref_o_1"
+                                        wId="pv25_1__chp_1__art_1.3__ref_o_1"
+                                        ref="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1">Regels Landbouwhuisdierenhygiëne niet van toepassing</IntIoRef>’.</Al>
                         </Inhoud>
                      </Artikel>
-                     <Artikel wId="chp_1__art_1.4" eId="pv25_1__chp_1__art_1.4">
+                     <Artikel eId="chp_1__art_1.4" wId="pv25_1__chp_1__art_1.4">
                         <Kop>
                            <Label>Artikel</Label>
                            <Nummer>1.4</Nummer>
@@ -236,46 +244,58 @@
                            <Al>Het oprichten, instandhouden en gebruiken van bouwwerken en het gebruik van gronden ten behoeve van geitenfokkerijen is verboden.</Al>
                         </Inhoud>
                      </Artikel>
-                     <Artikel wId="chp_1__art_1.5" eId="pv24_1__chp_1__art_1.5">
+                     <Artikel eId="chp_1__art_1.5" wId="pv25_1__chp_1__art_1.5">
                         <Kop>
                            <Label>Artikel</Label>
                            <Nummer>1.5</Nummer>
                         </Kop>
                         <Inhoud>
-                           <Al>In afwijking van artikel 7.4 is het oprichten, instandhouden en gebruiken van bouwwerken en het gebruik van gronden ten behoeve van wormenkwekerijen tevens verboden in het werkingsgebied dat is vastgelegd in het geografisch informatieobject ‘<IntIoRef eId="chp_1__art_1.5__ref_o_1" wId="pv24_1__chp_1__art_1.5__ref_o_1" ref="pv25_1__cmp_A__content_o_1__list_o_1__item_o_2__ref_o_1">Aanvullend wormenkwekerijverbod</IntIoRef>’.</Al>
+                           <Al>In afwijking van artikel 7.4 is het oprichten, instandhouden en gebruiken van bouwwerken en het gebruik van gronden ten behoeve van wormenkwekerijen tevens verboden in het werkingsgebied dat is vastgelegd in het geografisch informatieobject ‘<IntIoRef eId="chp_1__art_1.5__ref_o_1"
+                                        wId="pv25_1__chp_1__art_1.5__ref_o_1"
+                                        ref="pv25_1__cmp_A__content_o_1__list_o_1__item_o_2__ref_o_1">Aanvullend wormenkwekerijverbod</IntIoRef>’.</Al>
                         </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
                </Lichaam>
-               <Bijlage wId="cmp_A" eId="pv25_1__cmp_A">
+               <Bijlage eId="cmp_A" wId="pv25_1__cmp_A">
                   <Kop>
                      <Label>Bijlage</Label>
                      <Nummer>A</Nummer>
                   </Kop>
-                  <Divisietekst wId="cmp_A__content_o_1" eId="pv25_1__cmp_A__content_o_1">
+                  <Divisietekst eId="cmp_A__content_o_1" wId="pv25_1__cmp_A__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst wId="cmp_A__content_o_1__list_o_1" eId="pv25_1__cmp_A__content_o_1__list_o_1">
-                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1">
+                        <Begrippenlijst eId="cmp_A__content_o_1__list_o_1"
+                                        wId="pv25_1__cmp_A__content_o_1__list_o_1">
+                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_1"
+                                   wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1">
                               <Term>Regels maatvoering bouwen niet van toepassing</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1" ref="/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001</ExtIoRef>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt/nld@2022-05-06;RI0001</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_2" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_2">
+                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_2"
+                                   wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_2">
                               <Term>Aanvullend wormenkwekerijverbod</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_2__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/pv25/2022/Aanvullend_wormenkwekerijverbod/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Aanvullend_wormenkwekerijverbod/nld@2022-05-06;RI0001</ExtIoRef>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              ref="/join/id/regdata/pv25/2022/Aanvullend_wormenkwekerijverbod/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Aanvullend_wormenkwekerijverbod/nld@2022-05-06;RI0001</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_3" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_3">
+                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_3"
+                                   wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_3">
                               <Term>Landbouwhuisdierenverblijfhygiëne</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt/nld@2022-05-06;RI0001</ExtIoRef>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              ref="/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt/nld@2022-05-06;RI0001">/join/id/regdata/pv25/2022/Regels_landbouwhuisdierenhygiene_nvt/nld@2022-05-06;RI0001</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -307,9 +327,6 @@
          <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv25</maker>
          <officieleTitel>Reactieve interventie aan de gemeente Gemeentestad i.v.m. omgevingsplan wijziging 12</officieleTitel>
-         <alternatieveTitels>
-            <alternatieveTitel>Reactieve interventie aan de gemeente Gemeentestad i.v.m. omgevingsplan wijziging 12</alternatieveTitel>
-         </alternatieveTitels>
          <overheidsdomeinen>
             <overheidsdomein>/tooi/def/concept/c_bed49b60</overheidsdomein>
          </overheidsdomeinen>

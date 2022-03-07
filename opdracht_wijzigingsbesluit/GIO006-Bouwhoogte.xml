@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-  xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  schemaversie="1.1.0"
-  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
-  <InformatieObjectVersie>
-    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm0297/2019/Bouwhoogte</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2022-06-24;1234-2022</FRBRExpression>
-      <soortWork>/join/id/stop/work_010</soortWork>
-    </ExpressionIdentificatie>
-    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftBestanden>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
-            <hash>574dbe4fcad19d3ae1895d7dbfa160c75cce8c0fadcc5400588c9f18f45e5297335c4b3645f21827ec429528858ce48e29d4c16d7a894a6a0bc3417590f0185c</hash>
-          </Bestand>
-        </heeftBestand>
-      </heeftBestanden>
-      <heeftGeboorteregeling>/akn/nl/act/gm0297/2019/reg456</heeftGeboorteregeling>
-    </InformatieObjectVersieMetadata>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
-      <maker>/tooi/id/gemeente/gm0297</maker>
-      <alternatieveTitels>
-        <alternatieveTitel>Bouwhoogte</alternatieveTitel>
-      </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm0297/2019/Bouwhoogte</officieleTitel>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
-    </InformatieObjectMetadata>
-  </InformatieObjectVersie>
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0297/2019/Bouwhoogte</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2022-06-24;1234-2022</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
+                  <hash>0127e74c2969a030fb2479b3d300e2d17bdeaa30e7acad5792631415a1d25ab786f0ff403c90d489aecf198e7c3c82aa3f496cac9ca3ba88df0c8641df1851be</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+         <heeftGeboorteregeling>/akn/nl/act/gm0297/2019/reg456</heeftGeboorteregeling>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0297</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Bouwhoogte</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/gm0297/2019/Bouwhoogte</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
 </AanleveringInformatieObject>

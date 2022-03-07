@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   schemaversie="1.1.0"
-   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv25/2022/Regels_maatvoering_bouwen_nvt</FRBRWork>
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regels_maatvoering_bouwen_nvt.gml</bestandsnaam>
-                  <hash>242e163817c5335d31db340bd1407ac853989d025834ae0c318e39f9db47f4f8abe8fd8f834936c66bf6d9d25212f15b213d292389670fa0978c817595c5cf1c</hash>
+                  <hash>ccb123637a1c4e3c873981d04c2b24e63e79d9f5d321a43ca681c7ba01c3ab1b36bc7694e806aba54a05833eb8cd813bf206e923a561a0dd18dccb65b1f8dfb2</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

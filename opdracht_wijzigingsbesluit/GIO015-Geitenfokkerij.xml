@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   schemaversie="1.1.0"
-   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm0297/2022/Geitenfokkerij</FRBRWork>
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Geitenfokkerij.gml</bestandsnaam>
-                  <hash>fd514ee3fe0ea132ce59fc5477a27b67d9198b1910c76ab9f790c6f2a3000203de4e0df905cff2652b7c2b6c485fb6f20d6e6137b7842f12981d231f4bdc6a61</hash>
+                  <hash>d362a85fcf96c62d1a6cb57be55f0d81412d39edbe5ddcbed73a7fbffec28f664449438d693b1f1ca7b85ea57c5c16b687c9ecd9d57cec38ee76a4635ff4c5d0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

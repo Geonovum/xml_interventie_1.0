@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   schemaversie="1.1.0"
-   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm0297/2019/Goothoogte</FRBRWork>
@@ -15,7 +15,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Goothoogte.gml</bestandsnaam>
-                  <hash>aa75f229f87b5936e265e793937b1e9777cc220a765ff8ad29727247a670cbee14850ccf829c1407ed1c35759215048017ee8b2b0959beedae0977ec34125888</hash>
+                  <hash>26a70cc788c40bb3e7e0628263c32ef65a9c2207b4c89bae7fd5b1b3090b44a51dc968200f477c3329a0523ff461a4d5d193c4bf42612f54b2357b726474ff72</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

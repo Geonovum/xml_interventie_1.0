@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" 
-   xmlns:data="https://standaarden.overheid.nl/stop/imop/data/" 
-   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" 
-   xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" 
-   xmlns:gml="http://www.opengis.net/gml/3.2" 
-   xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/" 
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.1.0/imop-geo.xsd"
-   schemaversie="1.1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
+                                     xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"
+                                     xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                                     xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
+                                     xmlns:gml="http://www.opengis.net/gml/3.2"
+                                     xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.3.0/imop-geo.xsd"
+                                     schemaversie="1.3.0">
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -27,7 +27,8 @@
                   <basisgeo:Geometrie gml:id="id-5e9629c2-9c0b-40e6-8136-72498b2b71f5-xx">
                      <basisgeo:id>5e9629c2-9c0b-40e6-8136-72498b2b71f5</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-5e9629c2-9c0b-40e6-8136-72498b2b71f5" srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-5e9629c2-9c0b-40e6-8136-72498b2b71f5"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -49,7 +50,8 @@
                   <basisgeo:Geometrie gml:id="id-93cf64bf-a47f-46d6-802f-6ad39b16a95d-xx">
                      <basisgeo:id>93cf64bf-a47f-46d6-802f-6ad39b16a95d</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-93cf64bf-a47f-46d6-802f-6ad39b16a95d-0" srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-93cf64bf-a47f-46d6-802f-6ad39b16a95d-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -71,7 +73,8 @@
                   <basisgeo:Geometrie gml:id="id-44608da7-89a1-4c56-8d1b-6f836025ea14-xx">
                      <basisgeo:id>44608da7-89a1-4c56-8d1b-6f836025ea14</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-44608da7-89a1-4c56-8d1b-6f836025ea14-0" srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-44608da7-89a1-4c56-8d1b-6f836025ea14-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -93,7 +96,8 @@
                   <basisgeo:Geometrie gml:id="id-6ba73f18-f83a-428a-ab73-c5448387a94f-xx">
                      <basisgeo:id>6ba73f18-f83a-428a-ab73-c5448387a94f</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-6ba73f18-f83a-428a-ab73-c5448387a94f-0" srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-6ba73f18-f83a-428a-ab73-c5448387a94f-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -115,7 +119,8 @@
                   <basisgeo:Geometrie gml:id="id-3d920723-36d8-449c-bab1-88215328f715-xx">
                      <basisgeo:id>3d920723-36d8-449c-bab1-88215328f715</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-3d920723-36d8-449c-bab1-88215328f715-0" srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-3d920723-36d8-449c-bab1-88215328f715-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
